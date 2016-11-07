@@ -1,0 +1,10 @@
+Rebekah Manweiler
+EECS 448 Lab 06 11/7/16
+Test Results
+
+1)isEmpty appears to only return true
+2)addBack appears to operate like addFront
+3)removeFront appears to not remove anything or change m_size
+4)removeBack appears to not remove anything or change m_size
+5)~LinkedListOfNodes appears to remove the LinkedListOfNodes object but none of its nodes
+	although for whatever reason, toVector still works after the destructor has been called ...
